@@ -1,2 +1,4 @@
 api-gateway/volume-data/
 inventory-service/docker/mysql/data/
+order-service/docker/mysql/data
+product-service/docker/mongodb/data
